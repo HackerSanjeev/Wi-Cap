@@ -25,7 +25,7 @@
 
 - 📝 I regularly write articles on [https://sanjeevthehacker.blogspot.com/](https://sanjeevthehacker.blogspot.com/)
 
-- 📫 How to reach me **hackersanjeev.in@gmail.com**
+- 📫 How to reach me **cifertrooper@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
